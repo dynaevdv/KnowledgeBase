@@ -12,7 +12,7 @@ For example, I want to link this current document to `notes/config.md`.
 🔗 Get Started: https://quartz.jzhao.xyz/git
 
 For example, I want to link this current document to `notes/config.md`.
-[A link to the config page](notes/config.md)
+[A link to the config page](content/notes/config.md)
 
 For example, I want to link this current document to `notes/config.md`.
-[A link to the config page](orcsdoc/README.md)
+[A link to the config page](content/orcsdoc/README.md)

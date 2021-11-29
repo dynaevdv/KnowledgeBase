@@ -59,7 +59,7 @@ Change `cname` in `/.github/workflows/deploy.yaml`. Again, if you don't have a c
 	cname: <YOUR-DOMAIN>
 ```
 
-### Registrar
+### Registrar 555
 This step is only applicable if you are using a **custom domain**! If you are using `<YOUR-USERNAME>.github.io`, you can skip this step.
 
 For this last bit to take effect, you also need to create a CNAME record with the DNS provider you register your domain with (i.e. NameCheap, Google Domains).

@@ -6,7 +6,6 @@ relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
-    "/content/private/*",
 ]
 
 [markup]

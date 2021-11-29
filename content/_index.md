@@ -8,7 +8,7 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 4. A customizable graph view
 5. Endlessly powerful page and theme customization
 
-## Get Started
+## Get Started 55
 > 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
 Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
@@ -16,3 +16,5 @@ Not convinced yet? Look at some [community digital gardens](moc/showcase) built 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+
+[A link to the config page](notes/orcsdoc/README.md)

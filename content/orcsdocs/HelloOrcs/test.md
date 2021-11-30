@@ -1,7 +1,3 @@
----
-title: [[../README.html]]
----
-
 # aga
 
 nu vot tak vot

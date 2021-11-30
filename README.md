@@ -1,5 +1,5 @@
 # Quartz 55
-Host your own second brain and digital garden for free.
+New base
 
 For example, I want to link this current document to `notes/config.md`.
 [A link to the config page](orcsdoc/README.md)

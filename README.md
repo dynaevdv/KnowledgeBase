@@ -1,5 +1,5 @@
 ---
-title: "Quartz GUIDE"
+title: "quartz2"
 ---
 
 # Quartz 55

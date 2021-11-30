@@ -1,3 +1,7 @@
+---
+title: Quartz GUIDE
+---
+
 # Quartz 55
 Host your own second brain and digital garden for free.
 

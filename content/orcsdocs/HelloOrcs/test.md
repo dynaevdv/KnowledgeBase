@@ -1,3 +1,7 @@
+---
+title: "Blogging Like a Hacker"
+---
+
 # aga
 
 nu vot tak vot

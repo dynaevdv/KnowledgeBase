@@ -3,8 +3,7 @@ enableToc: true
 description:
   Here is the page description. This is an example Quartz site that details installation,
   setup, customization, and troubleshooting for Quartz itself.
-page_title:
-  Quartz Example Page
+page_title: HELLO PAGE
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao

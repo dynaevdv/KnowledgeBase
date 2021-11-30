@@ -4,4 +4,4 @@ nu vot tak vot
 
 ---
 
-![](2.mp4)
+![VIDOS](2.mp4)

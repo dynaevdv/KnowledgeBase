@@ -1,18 +1,8 @@
-# Quartz 55
-New base
-
-For example, I want to link this current document to `notes/config.md`.
-[A link to the config page](orcsdoc/README.md)
-
-For example, I want to link this current document to `notes/config.md`.
-[A link to the config page](notes/config.md)
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/git
+# Overmobile Knowledge base
+Enjoy :) 
 
 For example, I want to link this current document to `notes/config.md`.
 [A link to the config page](content/notes/config.md)
 
-For example, I want to link this current document to `notes/config.md`.
+For example, I want to link this current document to `notes/README.md`.
 [A link to the config page](content/orcsdocs/README.md)

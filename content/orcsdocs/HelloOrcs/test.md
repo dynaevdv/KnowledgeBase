@@ -1,5 +1,5 @@
 ---
-title: {{(../README.html}}
+title: [[(../README.html]]
 ---
 
 # aga

@@ -1,7 +1,3 @@
-<!-- ---
-title: "quartz2"
---- -->
-
 # Quartz 55
 Host your own second brain and digital garden for free.
 
